@@ -1,4 +1,4 @@
-# Lutron Lighting Innovation Competition 2023 2023
+# Lutron Lighting Innovation Competition 2023 
 Boston University SILab Lutron Lighting Innovation Competition 2023
 
 Have fun and make the light shine with your imagination!
